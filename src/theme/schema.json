@@ -1,0 +1,64 @@
+{
+  "data": {
+    "light": {
+      "id": "T_001",
+      "name": "Light",
+      "colors": {
+        "body": "#D3D3D3",
+        "text": "#000000",
+        "button": {
+          "text": "#FFFFFF",
+          "background": "#D3D3D3"
+        },
+        "link": {
+          "text": "teal",
+          "opacity": 1
+        },
+        "input": {
+          "background": "#eae3dc"
+        }
+      },
+      "font": "Tinos"
+    },
+    "purple": {
+      "id": "T_007",
+      "name": "Purple",
+      "colors": {
+        "body": "#17062A",
+        "text": "#0d47a1",
+        "button": {
+          "text": "#ffffff",
+          "background": "#17062A"
+        },
+        "link": {
+          "text": "#0d47a1",
+          "opacity": 0.8
+        },
+        "input": {
+          "background": "#1E0936"
+        }
+      },
+      "font": "Ubuntu"
+    },
+    "dark": {
+      "id": "T_008",
+      "name": "Dark",
+      "colors": {
+        "body": "#3a4663",
+        "text": "#AA4465",
+        "button": {
+          "text": "#EDF7D2",
+          "background": "#3a4663"
+        },
+        "link": {
+          "text": "#0d47a1",
+          "opacity": 0.8
+        },
+        "input": {
+          "background": "#181F33"
+        }
+      },
+      "font": "Ubuntu"
+    }
+  }
+}
